@@ -1,4 +1,4 @@
-## Coding Resources for Development
+## Coding Resources for Development and AI/ML
 
 # NodeJS
 - TypeScript
@@ -28,5 +28,5 @@
 - Stanford CS229: Machine Learning Course: https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU
 - Harvard CS50’s Artificial Intelligence with Python: https://www.youtube.com/watch?v=5NgNicANyqM
 # Deep Learning
-- https://www.youtube.com/watch?v=2dH_qjc9mFg&list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn
+- 100 dyas of DL: https://www.youtube.com/watch?v=2dH_qjc9mFg&list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn
 - Neural Networks Zero to Hero: https://www.youtube.com/watch?v=VMj-3S1tku0&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ
